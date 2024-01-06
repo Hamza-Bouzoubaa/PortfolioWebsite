@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AutoAnnotate (In progress)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    "Say goodbye to manual data annotation - this project simplifies the Named Entity Recognition training process by effortlessly converting raw data into ready-to-use JSON format, saving time and boosting efficiency.",
+    url: "https://github.com/Hamza-Bouzoubaa/AutoAnnotate",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ShortVideoGenerator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Create engaging short videos from long content effortlessly with the Short Videos Generator. Choose from Inspirational, Funny, or Informative content types. Powered by Whisper ASR and ChatGPT-4.",
+    url: "https://github.com/Hamza-Bouzoubaa/ShortVideoGenerator",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created as a Microsoft Student Learn Ambassador. Includes my experience and design abilities.",
+    url: "https://github.com/Hamza-Bouzoubaa/PortfolioWebsite",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Glassdoor Job Insights (Scraping Salary)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Leveraging Selenium and Jupyter for in-depth analysis of Glassdor data, revealing valuable salary trends.",
+    url: "https://github.com/Hamza-Bouzoubaa/SalaryScrape-Glassdoor-Job-Insights",
   },
 ];
 
